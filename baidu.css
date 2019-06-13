@@ -1,0 +1,122 @@
+#wrapper{
+    width:0 auto;
+    height:0 auto;
+
+
+    display: block;
+    float: none;
+    line-height: 14.4px;
+    position: relative;
+    z-index: auto;
+}
+
+
+#head{
+
+    height: 70px;
+    margin-bottom:10px ;
+    display: block;
+
+    float: none;
+    line-height: 14.4px;
+    position: static;
+    z-index: 100;
+}
+#head-left{ width: 70px; float: left;}
+.mod-header{
+    font-size: 0;
+    width: 320px;
+
+    margin:0 auto;;
+
+
+    position: static;
+    z-index: auto; }
+
+#login_link{
+    width: 170px;
+    height: 20px;
+    margin-right: 10px;
+
+
+    float: right;
+}
+
+
+#nav{
+    background:url(../img/reg_hr.png) ;
+    background-color: rgba(0,0,0,0);
+    height:10px;
+    margin-bottom:10px ;
+}
+
+#content{
+    widows: 600px;
+    height: 600px;
+    margin:0 auto;
+    margin-bottom: 30px;
+    display: block;
+
+    float: none;
+    line-height: 14.4px;
+    position: static;
+    z-index: auto;}
+.form{
+    font-family: "微软雅黑";
+    width:360px ;
+    margin:0 auto;
+}
+.label{
+    width:120px;
+    float: none;
+}
+.input{
+    height: 30px;
+    width: 240px;
+    margin-top: 20px;
+    border:1 solid ;
+    border-color:gainsboro;
+
+
+}
+.input2{height: 30px;
+    width: 110px;
+    margin-top: 20px;
+    border:1 solid ;
+    border-color:gainsboro;}
+.button1{ height: 30px;
+    width: 110px;
+    margin-top: 20px;
+    margin-left: 15px;
+    border:1 solid ;
+    border-color:lightgray;}
+#aside1{ float: left;}
+.aside{ width: 120px;}
+#aside2{float: right;}
+.feedback-robot{
+    position: fixed;
+    left: 80px;
+    bottom: 240px;
+}
+
+#foot{height:20px;}
+.foot-logo{
+    width: 120px;
+    float: right;
+    margin-right: 160px;
+    font-family: "微软雅黑";
+    color: chartreuse;
+}
+
+
+.submit{
+    width:240px;
+    padding: 10px;
+    margin-left: 68px;
+    align-content: center;
+    color: white;
+    font-size: large;
+    background-color: lightskyblue;
+}
+
+
